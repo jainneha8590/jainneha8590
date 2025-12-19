@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**jainneha8590/jainneha8590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Neha Jain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Test Automation Engineer with 5+ years of experience  
+🔹 Skilled in Manual Testing, Cypress, REST API Testing (Postman)  
+🔹 ISTQB® CTFL 4.0 Certified  
+🔹 Based in Germany | Open to Remote / Hybrid roles  
+
+## 🛠️ Skills
+- Manual & Automation Testing
+- Cypress (JavaScript)
+- REST API Testing (Postman)
+- Git & GitHub
+- Agile / Scrum
+
+## 🚀 Projects
+- 🚆 Deutsche Bahn UI Test Automation (Cypress)
+- 🧪 API Test Automation (Postman collections)
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/nehajain859
